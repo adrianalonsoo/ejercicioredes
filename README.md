@@ -1,6 +1,7 @@
 # ejercicioredes
 Ejercicio de redes en cisco packet tracer
- Para empezar a hacer el ejercicio he creado las subredes de VLSM una que soporte 100 host, otra para 30 y la ultima para soportar 6 host
+
+Para empezar a hacer el ejercicio he creado las subredes de VLSM una que soporte 100 host, otra para 30 y la ultima para soportar 6 host
 Después he creado los ordenadores y así he formado las 3 subredes VLSM
 
 Las diferentes redes:
